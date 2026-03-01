@@ -1,4 +1,4 @@
-# 🤖 Gemini FAQ Chatbot
+# 🤖 Azure OpenAI FAQ Chatbot
 
 AI-powered FAQ chatbot built using **FastAPI** and **Azure OpenAI**.  
 The system answers questions using structured FAQ data and falls back to intelligent web search when needed.
@@ -43,8 +43,8 @@ The goal is to provide accurate answers while maintaining secure, environment-ba
 ## ⚙️ Setup
 
 ### 1. Clone Repository
-git clone https://github.com/Nancy2107/gemini-faq-chatbot.git
-cd gemini-faq-chatbot
+git clone https://github.com/Nancy2107/azure-openAI-faq-chatbot.git
+cd azure-openAI-faq-chatbot
 
 
 ### 2. Create `.env` File
